@@ -12,6 +12,10 @@ Crea un programa en Python para un minimarket.
 
 ## Version 2
 
+```text
+Crea un programa en Python para gestionar el inventario de un minimarket usando un diccionario. Debe permitir agregar productos y mostrar la lista.
+```
+
 ## Version 3: prompt final
 
 ## Componentes del prompt final
